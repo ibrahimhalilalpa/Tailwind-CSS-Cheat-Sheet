@@ -13,7 +13,9 @@
 
 **React Örnek:**
 ```jsx
-<div className="text-gray-800 bg-[#f8f1f0] hover:bg-gray-200 focus:ring-2 focus:ring-blue-500 p-4 rounded">Örnek Metin</div>
+<div className="text-gray-800 bg-[#f8f1f0] hover:bg-gray-200 focus:ring-2 focus:ring-blue-500 p-4 rounded">
+Örnek Metin<
+/div>
 ```
 
 ---
