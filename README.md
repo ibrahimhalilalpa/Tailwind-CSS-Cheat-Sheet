@@ -8,7 +8,7 @@ Bu rehber, React projelerinde kullanılmak üzere hazırlanmış **tam kapsayıc
 - Flexbox ve Grid düzenleri  
 - Display, position ve responsive tasarım  
 - Transition, animation, hover/focus/active/disabled gibi interaktif durumlar  
-- Dark mode, pseudo-class, group & peer kullanımı  
-- Tailwind vs Bootstrap karşılaştırması  
+- Dark mode kullanımı  
+- *Tailwind vs Bootstrap karşılaştırması*
 
 React projelerinizde hızlıca referans alabileceğiniz bir rehberdir ve production-ready componentler için uygundur.
