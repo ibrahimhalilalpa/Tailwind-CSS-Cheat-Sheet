@@ -17,6 +17,7 @@
 ```
 
 ---
+
 ## 2. Typography
 
 | Özellik        | Class / Örnek                                                                         |
@@ -39,6 +40,7 @@
 ```
 
 ---
+
 ## 3. Spacing (Margin & Padding)
 
 |Özellik|Class / Örnek|
@@ -76,6 +78,7 @@
   Responsive kutu
 </div>
 ```
+---
 
 ## 5. Border & Radius & Shadow
 
@@ -93,7 +96,6 @@
   Kart içeriği
 </div>
 ```
-
 
 ---
 
@@ -125,7 +127,6 @@
   <Card /> <Card /> <Card />
 </div>
 ```
-
 
 ---
 
@@ -166,6 +167,8 @@
 </button>
 ```
 
+---
+
 ## 9. Responsive
 
 - Mobile-first: küçük ekranda default → büyük ekranlarda `sm:`, `md:`, `lg:`
@@ -180,6 +183,7 @@
   Responsive Box
 </div>
 ```
+---
 
 ## 10. Dark Mode
 
